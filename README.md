@@ -12,8 +12,8 @@ Source: http://www.postgresqltutorial.com/postgresql-sample-database/
 Four slides, one visualization per slide with answer and explanation of each SQL query used to create the data in the visualization.
 
 ### Files used
-queries.sql
-dvdrental.tar
+queries.sql\
+dvdrental.tar\
 analysis_report.pdf
 
 ### Commit message structure
